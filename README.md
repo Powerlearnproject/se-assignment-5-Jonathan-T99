@@ -69,6 +69,7 @@ Answer the following questions based on your understanding of the installation a
 
 8. Settings and Preferences:
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
+   -In VS Code, user can customize settings by accessing the settings menu via the gear icon (⚙) in the lower left or by pressing Ctrl + Shift + P (or Cmd + Shift + P on macOS) and typing "Preferences: Open Settings." To change the theme, go to "Color Theme" in settings or use the Command Palette, or modify the "workbench.colorTheme" entry in the settings JSON file. To adjust the font size, search "font size" in settings and change "Editor: Font Size," or update the "editor.fontSize" entry in the JSON file. For keybindings, open "Keyboard Shortcuts" from the settings menu or Command Palette, click the pencil icon next to a command, or edit the keybindings JSON file with the desired key-command pairs.
 
 9. Debugging in VS Code:
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
